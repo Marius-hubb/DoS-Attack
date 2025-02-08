@@ -13,7 +13,7 @@ This lab demonstrates how to perform a DoS attack on a target machine using hpin
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-macof commands: <br/>
+ <br/>
 <img src="https://i.imgur.com/V7rtKrK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
